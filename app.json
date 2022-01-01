@@ -1,0 +1,18 @@
+{
+    "name": "hello",
+    "description": "Deploy",
+    "keywords": ["hello"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "be0f97d4-2531-4ed0-9195-93313fb53f65"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://ibcl.us/caomei99/vless",
+    "repository": "https://github.com/caomei99/vless",
+    "stack": "container"
+}
